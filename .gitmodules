@@ -1,0 +1,6 @@
+[submodule "Numpy"]
+	path = Numpy
+	url = https://github.com/richaranjan04/Python-for-datascience-and-machine-learning.git/
+[submodule "NumPy_Array"]
+	path = NumPy_Array
+	url = https://github.com/richaranjan04/Python-for-datascience-and-machine-learning.git/
